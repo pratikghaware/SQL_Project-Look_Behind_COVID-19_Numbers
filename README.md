@@ -7,3 +7,12 @@ Explore Covid 19 data and retrieve maximum information from it. Not just that us
 
 Primary Goal with this project was as it is my first project how i can use my all bacis knowledge 
 in any project which can challenge me and push my skills. Also as i got tha data find insides of it and tell some story through it. 
+
+
+## Learnings - 
+1. Use of joins
+2. Ineer joins
+3. joins Across Database
+4. Inserts 
+5. drop 
+6. creating views 
